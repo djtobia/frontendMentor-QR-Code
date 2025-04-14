@@ -7,5 +7,5 @@ export default defineConfig({
     port: 3000,
     open: true
   },
-  base: '/frontedMentor-QR-Code',
+  base: '/frontedMentor-QR-Code/',
 })
