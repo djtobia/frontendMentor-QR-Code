@@ -10,6 +10,6 @@ const QRCode = () => {
        </div>
     </div>
   );
-} 
+}
 
 export default QRCode;
