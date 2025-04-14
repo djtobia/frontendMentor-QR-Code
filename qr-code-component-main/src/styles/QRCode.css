@@ -1,0 +1,35 @@
+.card {
+    width: 320px;
+    height: 499px;
+    background: white;
+    border-radius: 20px;
+}
+
+.qrCode {
+    width: 288px;
+    height: 288px;
+    background: hsl(218, 44%, 22%);
+    border-radius: 10px;
+    margin: 16px;
+}
+.card-body {
+    margin: 0 16px;
+    height: 131px;
+    width: 288px;
+    padding: 0
+}
+.top-text {
+    font-weight: 700;
+    font-size: 1.4em;
+    color: hsl(218, 44%, 22%);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.bottom-text {
+    color: hsl(216, 15%, 48%);
+    font-size: 1rem;
+    font-weight: 350;
+    padding: 16px;
+    margin-top: 0;
+}
