@@ -5,7 +5,6 @@ const App = () => {
   return (
     <div className="App outfit">
       <QRCode />
-      <div>test</div>
     </div>
   );
 }

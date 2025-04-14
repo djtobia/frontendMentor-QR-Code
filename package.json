@@ -1,5 +1,6 @@
 {
   "name": "qr-code-component",
+  "homepage": "https://djtobia.github.io/frontendMentor-QR-Code/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -19,6 +20,5 @@
     "@vitejs/plugin-react": "^4.0.0",
     "typescript": "^5.8.3",
     "vite": "^4.3.0"
-  },
-  "homepage": "https://djtobia.github.io/frontendMentor-QR-Code/"
+  }
 }
